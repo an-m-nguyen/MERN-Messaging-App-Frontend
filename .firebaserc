@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "mern-messaging-app-csci3916",
+    "csci3916": "mern-messaging-app-csci3916"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
